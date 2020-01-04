@@ -1,0 +1,9 @@
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 4\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 4\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay_and_Bonus.Form1.resources
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 4\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay_and_Bonus.Properties.Resources.resources
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 4\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 4\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 4\Pay and Bonus\Pay and Bonus\bin\Debug\Pay and Bonus.exe
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 4\Pay and Bonus\Pay and Bonus\bin\Debug\Pay and Bonus.pdb
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 4\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.exe
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 4\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.pdb
